@@ -1,0 +1,17 @@
+target/
+project/target/
+project/project/
+project/.bloop/
+project/metals.sbt
+.bloop/
+.bsp/
+.scala-build/
+.idea/
+.metals/
+.vscode/
+out/
+keys/
+backup.json
+backup.log
+*.store
+*.jpg
